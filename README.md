@@ -1,3 +1,5 @@
 # Devops-Projects
 
-Documenting my AWS-DevOps-projects and learning Journey.
+This repository contains Documented DevOps projects completed by me during my DevOps Learning Journey.
+
+
