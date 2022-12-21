@@ -19,7 +19,6 @@ I used Maven to build the artifact which was deployed to the Tomcat server.
 
 
 ## Prerequisites
-##
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
@@ -31,6 +30,7 @@ I used Maven to build the artifact which was deployed to the Tomcat server.
 - Maven
 - JSP
 - MySQL
+- 
 ## Database
 Here,we used Mysql DB 
 MSQL DB Installation Steps for Linux ubuntu 14.04:
