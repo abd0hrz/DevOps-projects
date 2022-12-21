@@ -10,9 +10,7 @@ I used Maven to build the artifact which was deployed to the Tomcat server.
 #### ✅ I accessed the Nginx service which then forwarded the request to the tomcat server, which then forwarded that request to message broker RabbitMQ, then to Memcached, and lastly to the MySQL server. The query executed on the tomcat server was then cached to the Memcache server
 
 ## Read Detailed Documentation from link below...
-#### https://medium.com/@osomudeyazudonu/project-1-vprofile-project-multi-tier-web-application-stack-setup-locally-59ef7917fc42
-
-
+#### https://bit.ly/devops-project01-aws
 
 
 # Prerequisites
