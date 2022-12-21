@@ -1,7 +1,7 @@
-### In this project, I manually created VMs with Vagrantfile for a 3-Tier Application Stack setup "MySQL/MariaDB, Memcached, RabbitMQ, Tomcat and Nginx" using bash script to manually configure Linux servers.
+In this project, I manually created VMs with Vagrantfile for a 3-Tier Application Stack setup "MySQL/MariaDB, Memcached, RabbitMQ, Tomcat and Nginx" using bash script to manually configure Linux servers.
 
 I used Maven to build the artifact which was deployed to the Tomcat server.
----------------------------------------------------------------------
+
 ## Setup Flow:
 
 ✅ Using vagrant, I created VMs via oracle VB
