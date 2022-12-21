@@ -3,10 +3,15 @@
 I used Maven to build the artifact which was deployed to the Tomcat server.
 ---------------------------------------------------------------------
 ## Setup Flow:
+
 ✅ Using vagrant, I created VMs via oracle VB
-✅ Logged into every machine and manually executed shell commands using Bash
+
+✅ Logged into every machine and manually executed shell commands using Bash.
+
 ✅ I set up my services.
+
 ✅ Once the stack was ready, I verified as the user from the browser.
+
 ✅ I accessed the Nginx service which then forwarded the request to the tomcat server, which then forwarded that request to message broker RabbitMQ, then to Memcached, and lastly to the MySQL server. The query executed on the tomcat server was then cached to the Memcache server
 
 ## Read Detailed Documentation from link below...
